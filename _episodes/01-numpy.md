@@ -100,7 +100,7 @@ print(weight_kg)
 {: .language-python}
 
 ~~~
-60
+60.0
 ~~~
 {: .output}
 
@@ -111,7 +111,7 @@ print(weight_kg_text, weight_kg)
 ~~~
 {: .language-python}
 ~~~
-weight in kilograms: 60
+weight in kilograms: 60.0
 ~~~
 {: .output}
 
@@ -134,7 +134,7 @@ print(weight_kg)
 {: .language-python}
 
 ~~~
-60
+60.0
 ~~~
 {: .output}
 
